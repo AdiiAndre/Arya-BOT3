@@ -3,18 +3,19 @@ Simple WhatsApp Bot
 
 ### FOR TERMUX USER
 ```bash
-> pkg update && pkg upgrade
+harus ada 2 hp
+kopi biar ga gabut
+yah
+langsung mulai
+
 > pkg install git -y
-> pkg install nodejs -y
-> pkg install ffmpeg -y
-> pkg install imagemagick -y
-> git clone https://github.com/Arya274/Arya-BOT3
+> git clone https://github.com/AdiiAndre/Arya-BOT3
 > cd Arya-BOT3
-> npm install
+> bash install.sh
 ```
 ###### Run
 ```bash
-> node . [<session name>] (session name is optional)
+> npm start or node index.js
 ```
 
 ---------
@@ -25,7 +26,7 @@ Simple WhatsApp Bot
 * Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
-> git clone https://github.com/Arya274/Arya-BOT3
+> git clone https://github.com/AdiiAndre/Arya-BOT3
 > cd Arya-BOT3
 > npm install
 ```
@@ -43,4 +44,4 @@ Script: @Nurutomo
 
 </p>
 
-[GITHUB](https://github.com/Arya274)
+[GITHUB](https://github.com/AdiiAndre)
