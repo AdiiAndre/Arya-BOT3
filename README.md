@@ -1,12 +1,13 @@
-# Drawl Nag
+# AdiiAndre BOT
 Simple WhatsApp Bot
 
-### FOR TERMUX USER
+### Peraturan dan Install Bot (TERMUX)
 ```bash
 harus ada 2 hp
 kopi biar ga gabut
 yah
-langsung mulai
+
+
 
 > pkg install git -y
 > git clone https://github.com/AdiiAndre/Arya-BOT3
