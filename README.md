@@ -7,6 +7,7 @@ harus ada 2 hp
 kopi biar ga gabut
 ```
 ## perinstallan (termux)
+```bash
 > pkg install git -y
 > git clone https://github.com/AdiiAndre/bot-whatsapp
 > cd bot-whatsapp
