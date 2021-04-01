@@ -1,17 +1,15 @@
 # AdiiAndre BOT
 Simple WhatsApp Bot
 
-### Peraturan dan Install Bot (TERMUX)
+### Peraturan 
 ```bash
 harus ada 2 hp
 kopi biar ga gabut
-yah
-
-
-
+```
+## perinstallan (termux)
 > pkg install git -y
-> git clone https://github.com/AdiiAndre/Arya-BOT3
-> cd Arya-BOT3
+> git clone https://github.com/AdiiAndre/bot-whatsapp
+> cd bot-whatsapp
 > bash install.sh
 ```
 ###### Run
@@ -27,8 +25,8 @@ yah
 * Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
-> git clone https://github.com/AdiiAndre/Arya-BOT3
-> cd Arya-BOT3
+> git clone https://github.com/AdiiAndre/bot-whatsapp
+> cd bot-whatsapp
 > npm install
 ```
 ###### Run
